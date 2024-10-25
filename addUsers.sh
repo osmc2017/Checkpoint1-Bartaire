@@ -27,3 +27,4 @@ do
     fi
   fi
 done
+# Vous trouverez une capture du code original dans dossier stocke-image 

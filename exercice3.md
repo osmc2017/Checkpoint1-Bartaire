@@ -25,7 +25,7 @@ il faut entrer le nom du fichier pdf dans le fichier `gitignore`
 ---
 > Question 6:
 
-Il faut, selon moi, utiliser un filtre type `grep gedit`pour filtrer le processus et on obtient une ligne de commande du style `jobs -l | grep gedit
+Il faut, selon moi, utiliser un filtre type `grep gedit`pour filtrer le processus et on obtient une ligne de commande du style `jobs | grep gedit` ancienne reponse (jobs -l....)
 
 ---
 > Question 7:

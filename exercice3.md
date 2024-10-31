@@ -15,7 +15,7 @@ il faut entrer le nom du fichier pdf dans le fichier `gitignore`
 ---
 > Question 4:
 
-`git merge main test_valide` 
+`git merge test_valide` 
 
 ---
 > Question 5:

@@ -48,7 +48,7 @@ Sur la couche 3 nous avons les routeurs qui permettent l'accés sur les réseaux
 ---
 > Question 9:
 
-J'ai un gros doute mais il me semble que c'est la partie de la trame qui contient les protocoles de notre trame ethernet
+Le payload est la partie principale et utile des données transmises, sans les informations de contrôle ou d'en-tête.
 
 ---
 > Question 10:

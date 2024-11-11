@@ -14,7 +14,11 @@ il faut entrer le nom du fichier pdf dans le fichier `gitignore`
 
 ---
 > Question 4:
-
+- On repositionne le projet sur la branche main:
+`git checkout main`
+- On récupère les dernieres informations:
+`git pull origin main`
+- On fusionne main et test_valide:
 `git merge test_valide` 
 
 ---
